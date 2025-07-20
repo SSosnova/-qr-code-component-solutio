@@ -45,9 +45,5 @@ This project was a great refresher on fundamental HTML and CSS concepts. I parti
 - **Responsive Images:** Ensuring the `<img>` tag correctly scales within its container using `width: 100%` and has rounded corners with `border-radius`.
 - **`box-sizing: border-box;`:** Understanding its importance in simplifying layout calculations by including padding and border within an element's defined width and height.
 
-```html
-<div class="qr-code-card">
-    <img src="image-qr-code.png" alt="QR Code to Frontend Mentor" class="qr-code-image">
-    <h2 class="card-title">Improve your front-end skills by building projects</h2>
-    <p class="card-description">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
-</div>
+
+
