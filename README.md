@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of the QR code component solution](./screenshot.png)
+![Screenshot of the QR code component solution](./qr-component-screenshot.jpeg)
 
 **Note:** Replace `./screenshot.png` with the actual path and filename of your screenshot (e.g., `./images/qr-code-component-screenshot.jpg`).
 
