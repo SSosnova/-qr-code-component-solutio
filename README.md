@@ -21,12 +21,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Screenshot of the QR code component solution](./qr-component-screenshot.jpeg)
 
-**Note:** Replace `./screenshot.png` with the actual path and filename of your screenshot (e.g., `./images/qr-code-component-screenshot.jpg`).
-
 ### Links
 
-- Solution URL: [Add your GitHub Repository URL here](https://github.com/your-username/qr-code-component-solution)
-- Live Site URL: [Add your Live Site URL here](https://your-username.github.io/qr-code-component-solution/)
+- Solution URL: (https://github.com/SSosnova/qr-code-component-solution)
+- Live Site URL: (https://SSosnova.github.io/qr-code-component-solution/)
 
 ## My process
 
@@ -36,8 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties (using `var()` for consistent styling)
 - Flexbox (for centering the component on the page)
 - Mobile-first workflow (considering smaller screens first)
-
-**Note:** I removed CSS Grid, React, Next.js, and Styled Components from the list as they were not used in this particular solution.
 
 ### What I learned
 
